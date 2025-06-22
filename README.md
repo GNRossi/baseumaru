@@ -1,2 +1,0 @@
-# baseumaru
-HT Cumaru
